@@ -1,0 +1,46 @@
+img{
+    width: 30%;
+    float: left;
+    height: 400px;
+    margin: 1.66%;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+    color: darkslategray; 
+    text-decoration: underline;
+    font-display: block;
+    margin-left: 500px;
+    font-size: 50px;
+    font-weight: 4000;
+    
+    }
+#propic{
+    float: right;
+     border-color:grey;
+    border-width:10px;
+    border-style:solid;
+}
+p{
+    float: right;
+    color: darksalmon;
+    font-size: 30px;
+    text-align: right;
+    border: 20%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+h2{
+    margin-top: 80%;
+}
+#name{
+    float: left;
+}
+#place{
+    float: left;
+}
+#email{
+    float: left;
+}
+#contact{
+    float: left;
+}
